@@ -5,6 +5,8 @@ Vue.use(Vuetify)
 
 export default new Vuetify()
 
+// Customize your theme
+
 // export default new Vuetify({
 //   theme: {
 //     themes: {

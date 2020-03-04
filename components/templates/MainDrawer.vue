@@ -13,7 +13,7 @@
         :key="item.title"
         link
       >
-        <v-list-item-icon>
+        <v-list-item-icon style="margin-right: 16px">
           <v-icon>{{ item.icon }}</v-icon>
         </v-list-item-icon>
 
